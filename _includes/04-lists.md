@@ -1,4 +1,4 @@
-<li>List of books:</li>
-<li>The Alchemist</li>
-<li>Sapiens</li>
-<li>Lord of the Flies</li>
+- List of books:
+- The Alchemist
+- Sapiens</li>
+- Lord of the Flies
