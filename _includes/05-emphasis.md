@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I like coding*
+_I am a beginner to GitHub_
+
+**My interests include space science and biomedical engineering**
+__Trying to learn MATLAB__
+
+_You **can** combine them_
+ 
